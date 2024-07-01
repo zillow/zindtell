@@ -1,5 +1,5 @@
 # ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions
-This repository contains code for our IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) on Multimodal Learning and Applications (MULA) paper: [ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions](http://cvpr2024.thecvf.com/).
+This repository contains code for our IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) on Multimodal Learning and Applications (MULA) paper: [ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions](https://openaccess.thecvf.com/content/CVPR2024W/MULA/html/Deb_ZInD-Tell_Towards_Translating_Indoor_Panoramas_into_Descriptions_CVPRW_2024_paper.html).
 
 ## Our paper
 ### Introduction
